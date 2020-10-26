@@ -4,5 +4,9 @@
   "description": "My First Extension",
   "main": "index.js",
   "repository": "https://github.com/jaredloplop1212/tableau-extensions-tutorial-part-one",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
 }
